@@ -383,5 +383,635 @@
     "name": "Tilt-Shift",
     "prompt": "Tilt-shift photo of {prompt} . Selective focus, miniature effect, blurred background, highly detailed, vibrant, perspective control",
     "negative_prompt": "blurry, noisy, deformed, flat, low contrast, unrealistic, oversaturated, underexposed"
+  },
+  {
+    "name": "Candid Street Portrait",
+    "prompt": "realistic candid street portrait of {prompt} . lifelike, detailed, natural expression, urban background, high-resolution, natural lighting",
+    "negative_prompt": "staged, unrealistic, clean, minimalist, blurry, low resolution"
+  },
+  {
+    "name": "Corporate Headshot",
+    "prompt": "realistic corporate headshot of {prompt} . lifelike, detailed, professional attire, office background, high-resolution, studio lighting",
+    "negative_prompt": "casual, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "Outdoor Adventure Portrait",
+    "prompt": "realistic outdoor adventure portrait of {prompt} . lifelike, detailed, natural environment, high-resolution, dynamic pose, natural lighting",
+    "negative_prompt": "urban, staged, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "Family Portrait",
+    "prompt": "realistic family portrait of {prompt} . lifelike, detailed, group photo, home setting, high-resolution, natural lighting",
+    "negative_prompt": "formal, staged, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "Graduation Portrait",
+    "prompt": "realistic graduation portrait of {prompt} . lifelike, detailed, academic attire, campus background, high-resolution, natural lighting",
+    "negative_prompt": "casual, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "Sports Action Portrait",
+    "prompt": "realistic sports action portrait of {prompt} . lifelike, detailed, dynamic pose, high-resolution, stadium background, natural lighting",
+    "negative_prompt": "static, posed, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "Pet Portrait",
+    "prompt": "realistic pet portrait of {prompt} . lifelike, detailed, expressive, high-resolution, natural lighting, pet's natural habitat",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, staged"
+  },
+  {
+    "name": "Artistic Black and White Portrait",
+    "prompt": "realistic artistic black and white portrait of {prompt} . lifelike, detailed, high contrast, high-resolution, dramatic lighting",
+    "negative_prompt": "colorful, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "Baby Portrait",
+    "prompt": "realistic baby portrait of {prompt} . lifelike, detailed, cute expression, high-resolution, soft lighting, home setting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, staged"
+  },
+  {
+    "name": "Cultural Festival Portrait",
+    "prompt": "realistic cultural festival portrait of {prompt} . lifelike, detailed, traditional attire, vibrant background, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, modern"
+  },
+  {
+    "name": "High Fashion Portrait",
+    "prompt": "realistic high fashion portrait of {prompt} . lifelike, detailed, stylish attire, high-resolution, studio lighting, professional pose",
+    "negative_prompt": "casual, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "Traveler's Portrait",
+    "prompt": "realistic traveler's portrait of {prompt} . lifelike, detailed, travel attire, exotic location background, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, staged"
+  },
+  {
+    "name": "Vintage Portrait",
+    "prompt": "realistic vintage portrait of {prompt} . lifelike, detailed, sepia tones, high-resolution, period clothing, natural lighting",
+    "negative_prompt": "modern, colorful, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "Elderly Portrait",
+    "prompt": "realistic elderly portrait of {prompt} . lifelike, detailed, expressive, high-resolution, natural lighting, home setting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, staged"
+  },
+  {
+    "name": "Artist at Work",
+    "prompt": "realistic portrait of {prompt} as an artist at work. lifelike, detailed, high-resolution, studio setting, natural lighting, expressive",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, staged"
+  },
+  {
+    "name": "Realistic Nude Portrait",
+    "prompt": "photorealistic nude portrait of {prompt} . lifelike, detailed, natural lighting, artistic, high-resolution, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "Classical Nude Art",
+    "prompt": "realistic classical nude art of {prompt} . lifelike, detailed, Renaissance style, natural lighting, artistic, highly detailed",
+    "negative_prompt": "modern, explicit, vulgar, abstract, cartoonish"
+  },
+  {
+    "name": "Swimsuit Portrait",
+    "prompt": "photorealistic swimsuit portrait of {prompt} . lifelike, detailed, vibrant colors, beach setting, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "Swimsuit Fashion",
+    "prompt": "realistic swimsuit fashion shoot of {prompt} . lifelike, detailed, high-resolution, stylish, beach setting, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, vulgar"
+  },
+  {
+    "name": "Nude in Nature",
+    "prompt": "realistic nude portrait of {prompt} in nature. lifelike, detailed, natural setting, artistic, high-resolution, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "Elegant Nude Portrait",
+    "prompt": "photorealistic elegant nude portrait of {prompt} . lifelike, detailed, sophisticated, high-resolution, tasteful, natural lighting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "Swimsuit on the Beach",
+    "prompt": "realistic swimsuit portrait of {prompt} on the beach. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "Artistic Nude Study",
+    "prompt": "realistic artistic nude study of {prompt} . lifelike, detailed, high-resolution, natural lighting, tasteful, classic",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "Swimsuit Poolside",
+    "prompt": "realistic swimsuit portrait of {prompt} by the pool. lifelike, detailed, high-resolution, vibrant colors, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "Nude Figure Drawing",
+    "prompt": "realistic nude figure drawing of {prompt} . lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "Swimsuit Studio Shoot",
+    "prompt": "realistic swimsuit portrait of {prompt} in a studio. lifelike, detailed, high-resolution, professional lighting, vibrant colors",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "Nude with Drapery",
+    "prompt": "realistic nude portrait of {prompt} with drapery. lifelike, detailed, artistic, high-resolution, tasteful, natural lighting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "Vintage Poster",
+    "prompt": "vintage poster of {prompt} . realistic, retro, aged paper, bold typography, distressed edges, highly detailed",
+    "negative_prompt": "modern, clean, minimalist, digital art, photo"
+  },
+  {
+    "name": "Surreal Collage",
+    "prompt": "surreal collage of {prompt} . realistic, dreamlike, mixed media, layered images, vibrant, detailed",
+    "negative_prompt": "mundane, simple, straightforward, photorealistic"
+  },
+  {
+    "name": "Fantasy Landscape",
+    "prompt": "fantasy landscape of {prompt} . realistic, majestic scenery, magical, vibrant colors, epic, highly detailed",
+    "negative_prompt": "urban, industrial, mundane, plain"
+  },
+  {
+    "name": "Cyberpunk City",
+    "prompt": "realistic cyberpunk cityscape of {prompt} . neon lights, futuristic, urban, rain-soaked streets, highly detailed",
+    "negative_prompt": "rural, rustic, natural, bright daylight"
+  },
+  {
+    "name": "Retro Futurism",
+    "prompt": "retro-futuristic style of {prompt} . realistic, 1950s sci-fi, vibrant colors, sleek designs, highly detailed",
+    "negative_prompt": "contemporary, mundane, simplistic, plain"
+  },
+  {
+    "name": "Gothic Architecture",
+    "prompt": "gothic architecture of {prompt} . realistic, intricate, dark, dramatic, highly detailed, medieval",
+    "negative_prompt": "modern, clean, minimalist, simple"
+  },
+  {
+    "name": "Art Deco",
+    "prompt": "art deco style of {prompt} . realistic, geometric patterns, luxurious, 1920s, vibrant, highly detailed",
+    "negative_prompt": "modern, minimalist, plain, unadorned"
+  },
+  {
+    "name": "Children's Book",
+    "prompt": "realistic children's book illustration of {prompt} . whimsical, colorful, playful, highly detailed",
+    "negative_prompt": "mature, dark, monochrome, plain"
+  },
+  {
+    "name": "Medieval Manuscript",
+    "prompt": "medieval manuscript of {prompt} . realistic, illuminated text, ornate, ancient, parchment, highly detailed",
+    "negative_prompt": "modern, simple, minimalist, clean"
+  },
+  {
+    "name": "Ukiyo-e",
+    "prompt": "ukiyo-e style of {prompt} . realistic, traditional Japanese woodblock print, vibrant, intricate patterns, highly detailed",
+    "negative_prompt": "modern, simplistic, monochrome, plain"
+  },
+  {
+    "name": "Fantasy Creature",
+    "prompt": "realistic fantasy creature of {prompt} . mythical, otherworldly, vibrant, highly detailed",
+    "negative_prompt": "mundane, simplistic, plain, modern"
+  },
+  {
+    "name": "Sci-Fi Concept Art",
+    "prompt": "sci-fi concept art of {prompt} . realistic, futuristic, space, advanced technology, vibrant, highly detailed",
+    "negative_prompt": "historical, rustic, plain, mundane"
+  },
+  {
+    "name": "Underwater Scene",
+    "prompt": "realistic underwater scene of {prompt} . marine life, vibrant, ethereal, highly detailed",
+    "negative_prompt": "dry, land, plain, realistic"
+  },
+  {
+    "name": "Victorian Era",
+    "prompt": "victorian era of {prompt} . realistic, ornate, historical, 19th century, intricate details, highly detailed",
+    "negative_prompt": "modern, simple, minimalist, plain"
+  },
+  {
+    "name": "Sci-Fi Cityscape",
+    "prompt": "realistic sci-fi cityscape of {prompt} . futuristic buildings, neon lights, bustling, advanced technology, highly detailed",
+    "negative_prompt": "rural, historical, simple, mundane"
+  },
+  {
+    "name": "Photorealistic Portrait",
+    "prompt": "photorealistic portrait of {prompt} . lifelike, detailed, expressive, high-resolution, natural lighting",
+    "negative_prompt": "cartoonish, abstract, blurry, low resolution"
+  },
+  {
+    "name": "Realistic Nature Scene",
+    "prompt": "realistic nature scene of {prompt} . detailed foliage, lifelike lighting, vibrant colors, highly detailed",
+    "negative_prompt": "abstract, simplistic, monochrome, plain"
+  },
+  {
+    "name": "Urban Street Photography",
+    "prompt": "realistic urban street photography of {prompt} . candid, detailed, high contrast, dynamic, lifelike",
+    "negative_prompt": "staged, unrealistic, clean, minimalist"
+  },
+  {
+    "name": "Historical Event",
+    "prompt": "realistic depiction of {prompt} . historical setting, accurate details, lifelike, highly detailed",
+    "negative_prompt": "modern, abstract, unrealistic, cartoonish"
+  },
+  {
+    "name": "Realistic Animal Portrait",
+    "prompt": "realistic animal portrait of {prompt} . lifelike, detailed, expressive, high-resolution, natural lighting",
+    "negative_prompt": "cartoonish, abstract, blurry, low resolution"
+  },
+  {
+    "name": "NOX Hyper-Realistic Lingerie",
+    "prompt": "hyper-realistic portrait of {prompt} in lingerie. lifelike, detailed, high-resolution, seductive pose, natural lighting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Hyper-Realistic Swimsuit Glamour",
+    "prompt": "hyper-realistic glamour portrait of {prompt} in a swimsuit. lifelike, detailed, high-resolution, seductive, beach setting, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Hyper-Realistic Boudoir",
+    "prompt": "hyper-realistic boudoir portrait of {prompt} . lifelike, detailed, high-resolution, intimate setting, seductive pose, soft lighting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Hyper-Realistic Sensual Nude",
+    "prompt": "hyper-realistic sensual nude portrait of {prompt} . lifelike, detailed, high-resolution, tasteful, seductive pose, natural lighting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Hyper-Realistic Beach Bikini",
+    "prompt": "hyper-realistic beach bikini portrait of {prompt} . lifelike, detailed, high-resolution, seductive, vibrant colors, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Hyper-Realistic Evening Gown",
+    "prompt": "hyper-realistic portrait of {prompt} in an evening gown. lifelike, detailed, high-resolution, seductive, elegant, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Hyper-Realistic Poolside Elegance",
+    "prompt": "hyper-realistic portrait of {prompt} poolside. lifelike, detailed, high-resolution, seductive, vibrant colors, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Hyper-Realistic Bedroom Intimacy",
+    "prompt": "hyper-realistic intimate portrait of {prompt} in a bedroom. lifelike, detailed, high-resolution, seductive, soft lighting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Hyper-Realistic Sunbathing",
+    "prompt": "hyper-realistic portrait of {prompt} sunbathing. lifelike, detailed, high-resolution, seductive, beach setting, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Hyper-Realistic Satin Sheets",
+    "prompt": "hyper-realistic portrait of {prompt} on satin sheets. lifelike, detailed, high-resolution, seductive, soft lighting, intimate setting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Hyper-Realistic Lounge Wear",
+    "prompt": "hyper-realistic portrait of {prompt} in lounge wear. lifelike, detailed, high-resolution, seductive, natural lighting, cozy setting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Hyper-Realistic Fitness Model",
+    "prompt": "hyper-realistic portrait of {prompt} as a fitness model. lifelike, detailed, high-resolution, seductive, gym setting, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Hyper-Realistic Shower Scene",
+    "prompt": "hyper-realistic portrait of {prompt} in a shower. lifelike, detailed, high-resolution, seductive, water droplets, soft lighting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Hyper-Realistic Beach Waves",
+    "prompt": "hyper-realistic portrait of {prompt} with beach waves. lifelike, detailed, high-resolution, seductive, vibrant colors, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Hyper-Realistic Sensual Pose",
+    "prompt": "hyper-realistic sensual pose portrait of {prompt} . lifelike, detailed, high-resolution, seductive, natural lighting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Hyper-Realistic Nightclub Attire",
+    "prompt": "hyper-realistic portrait of {prompt} in nightclub attire. lifelike, detailed, high-resolution, seductive, vibrant colors, dramatic lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Hyper-Realistic Sunset Glow",
+    "prompt": "hyper-realistic portrait of {prompt} at sunset. lifelike, detailed, high-resolution, seductive, beach setting, warm lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Hyper-Realistic Sheer Fabric",
+    "prompt": "hyper-realistic portrait of {prompt} with sheer fabric. lifelike, detailed, high-resolution, seductive, soft lighting, intimate setting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Hyper-Realistic Glamour Nude",
+    "prompt": "hyper-realistic glamour nude portrait of {prompt} . lifelike, detailed, high-resolution, seductive, tasteful, soft lighting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Hyper-Realistic Poolside Bikini",
+    "prompt": "hyper-realistic poolside bikini portrait of {prompt} . lifelike, detailed, high-resolution, seductive, vibrant colors, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Hyper-Realistic Bedroom Eyes",
+    "prompt": "hyper-realistic portrait of {prompt} with bedroom eyes. lifelike, detailed, high-resolution, seductive, intimate setting, soft lighting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Hyper-Realistic Seaside Elegance",
+    "prompt": "hyper-realistic portrait of {prompt} by the seaside. lifelike, detailed, high-resolution, seductive, vibrant colors, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Hyper-Realistic Evening Seduction",
+    "prompt": "hyper-realistic evening seduction portrait of {prompt} . lifelike, detailed, high-resolution, seductive, elegant, soft lighting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Hyper-Realistic Lace Lingerie",
+    "prompt": "hyper-realistic portrait of {prompt} in lace lingerie. lifelike, detailed, high-resolution, seductive, intimate setting, soft lighting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Hyper-Realistic Candlelit Seduction",
+    "prompt": "hyper-realistic portrait of {prompt} by candlelight. lifelike, detailed, high-resolution, seductive, warm lighting, intimate setting",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Beach Volleyball Swimsuit",
+    "prompt": "realistic beach volleyball swimsuit portrait of {prompt} . lifelike, detailed, dynamic pose, high-resolution, beach setting, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Vintage Furniture",
+    "prompt": "realistic nude portrait of {prompt} with vintage furniture. lifelike, detailed, high-resolution, artistic, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit in the Mountains",
+    "prompt": "realistic swimsuit portrait of {prompt} in the mountains. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Exotic Animals",
+    "prompt": "realistic nude portrait of {prompt} with exotic animals. lifelike, detailed, high-resolution, artistic, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit Yoga Pose",
+    "prompt": "realistic swimsuit portrait of {prompt} in a yoga pose. lifelike, detailed, dynamic, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Musical Instrument",
+    "prompt": "realistic nude portrait of {prompt} with a musical instrument. lifelike, detailed, high-resolution, artistic, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit in a Hot Spring",
+    "prompt": "realistic swimsuit portrait of {prompt} in a hot spring. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Body Paint",
+    "prompt": "realistic nude portrait of {prompt} with body paint. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit Underwater Bubbles",
+    "prompt": "realistic swimsuit portrait of {prompt} underwater with bubbles. lifelike, detailed, vibrant colors, high-resolution, ethereal lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Silhouettes",
+    "prompt": "realistic nude portrait of {prompt} with silhouettes. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit at a Waterfall",
+    "prompt": "realistic swimsuit portrait of {prompt} at a waterfall. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude in a Garden",
+    "prompt": "realistic nude portrait of {prompt} in a garden. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit in the Snow",
+    "prompt": "realistic swimsuit portrait of {prompt} in the snow. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Mirror Reflection",
+    "prompt": "realistic nude portrait of {prompt} with mirror reflection. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit on a Sailboat",
+    "prompt": "realistic swimsuit portrait of {prompt} on a sailboat. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude in an Art Studio",
+    "prompt": "realistic nude portrait of {prompt} in an art studio. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit with Ocean Waves",
+    "prompt": "realistic swimsuit portrait of {prompt} with ocean waves. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Flowing Fabric",
+    "prompt": "realistic nude portrait of {prompt} with flowing fabric. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit on a Tropical Beach",
+    "prompt": "realistic swimsuit portrait of {prompt} on a tropical beach. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude in a Forest",
+    "prompt": "realistic nude portrait of {prompt} in a forest. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit with Surfboard",
+    "prompt": "realistic swimsuit portrait of {prompt} with a surfboard. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Candlelight",
+    "prompt": "realistic nude portrait of {prompt} by candlelight. lifelike, detailed, artistic, high-resolution, warm lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit on a Yacht",
+    "prompt": "realistic swimsuit portrait of {prompt} on a yacht. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Architectural Elements",
+    "prompt": "realistic nude portrait of {prompt} with architectural elements. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit Poolside Relaxation",
+    "prompt": "realistic swimsuit portrait of {prompt} relaxing poolside. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Classical Statues",
+    "prompt": "realistic nude portrait of {prompt} with classical statues. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit with Palm Trees",
+    "prompt": "realistic swimsuit portrait of {prompt} with palm trees. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Geometric Patterns",
+    "prompt": "realistic nude portrait of {prompt} with geometric patterns. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit in a Resort",
+    "prompt": "realistic swimsuit portrait of {prompt} in a resort. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Flower Petals",
+    "prompt": "realistic nude portrait of {prompt} with flower petals. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Nude with Draped Fabric",
+    "prompt": "realistic nude portrait of {prompt} with draped fabric. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit at Sunset",
+    "prompt": "realistic swimsuit portrait of {prompt} at sunset. lifelike, detailed, vibrant colors, high-resolution, beach setting, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Swimsuit with Sand Dunes",
+    "prompt": "realistic swimsuit portrait of {prompt} with sand dunes. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Silk Sheets",
+    "prompt": "realistic nude portrait of {prompt} with silk sheets. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit on a Cliff",
+    "prompt": "realistic swimsuit portrait of {prompt} on a cliff. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Rose Petals",
+    "prompt": "realistic nude portrait of {prompt} with rose petals. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit with Mountains",
+    "prompt": "realistic swimsuit portrait of {prompt} with mountains. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Velvet Drapes",
+    "prompt": "realistic nude portrait of {prompt} with velvet drapes. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit at a Lagoon",
+    "prompt": "realistic swimsuit portrait of {prompt} at a lagoon. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Natural Backdrop",
+    "prompt": "realistic nude portrait of {prompt} with a natural backdrop. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit on Rocky Shore",
+    "prompt": "realistic swimsuit portrait of {prompt} on a rocky shore. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Classical Busts",
+    "prompt": "realistic nude portrait of {prompt} with classical busts. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit with Pine Trees",
+    "prompt": "realistic swimsuit portrait of {prompt} with pine trees. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Feather Accents",
+    "prompt": "realistic nude portrait of {prompt} with feather accents. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit with Coral Reefs",
+    "prompt": "realistic swimsuit portrait of {prompt} with coral reefs. lifelike, detailed, vibrant colors, high-resolution, underwater lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Beads and Jewelry",
+    "prompt": "realistic nude portrait of {prompt} with beads and jewelry. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit at Sunrise",
+    "prompt": "realistic swimsuit portrait of {prompt} at sunrise. lifelike, detailed, vibrant colors, high-resolution, beach setting, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Textured Fabrics",
+    "prompt": "realistic nude portrait of {prompt} with textured fabrics. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit on a Beach Hammock",
+    "prompt": "realistic swimsuit portrait of {prompt} on a beach hammock. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Reflected Light",
+    "prompt": "realistic nude portrait of {prompt} with reflected light. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit with Seagulls",
+    "prompt": "realistic swimsuit portrait of {prompt} with seagulls. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Golden Accents",
+    "prompt": "realistic nude portrait of {prompt} with golden accents. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
+  },
+  {
+    "name": "NOX Swimsuit in a Grotto",
+    "prompt": "realistic swimsuit portrait of {prompt} in a grotto. lifelike, detailed, vibrant colors, high-resolution, natural lighting",
+    "negative_prompt": "blurry, low resolution, cartoonish, abstract, dark"
+  },
+  {
+    "name": "NOX Nude with Floral Arrangement",
+    "prompt": "realistic nude portrait of {prompt} with a floral arrangement. lifelike, detailed, artistic, high-resolution, natural lighting, tasteful",
+    "negative_prompt": "explicit, vulgar, blurry, low resolution, cartoonish, abstract"
   }
 ]
